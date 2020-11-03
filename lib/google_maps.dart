@@ -25,7 +25,7 @@ class _GoogleMapPageState extends State<GoogleMapPage> {
   Map<PolylineId, Polyline> polyLines = {};
   List<LatLng> routeCoordinates = [];
   PolylinePoints polylinePoints = PolylinePoints();
-  String googleAPiKey = "AIzaSyCX7siqPOVR_DhIIq64VHiXhIXUgUZvVbU";
+  String googleAPiKey = "AIzaSyCQA8UFhGwd1HhvEo6bFHfy_hAinb9rlJQ";
 
   LatLng latLng = LatLng(6.5, 3.4);
   TextEditingController _startController;
